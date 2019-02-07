@@ -35,9 +35,9 @@ A curated list of engineering blogs of startup and enterprise companies.
 | [Blacklane](https://medium.com/blacklane-engineering)                          | Blacklane Engineering Blog.                             |
 | [BlackRock Engineering](http://rockthecode.io/)                                | BlackRock Engineering Blog.                             |
 | [Blendle](https://blendle.engineering/)                                        | Blendle Engineering Blog.  
-|
+            |
 | [Bloomberg](https://www.techatbloomberg.com/blog/#2)                           | Tech At Bloomberg.  
-|
+            |
 | [Branch](https://blog.branch.io/)                                              | Branch Blog.                                            |
 | [Booking](https://blog.booking.com/)                                           | Booking.com Blog.                                       |
 | [BookMyShow](https://we-are.bookmyshow.com/)                                   | BookMyShow Blog.                                        |
